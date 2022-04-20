@@ -12,8 +12,14 @@ R2 = 2
 K2 = 5
 K1 = screen_size * K2 * 3 / (8 * (R1 + R2))
 
-# Cambio 1
-# Cambio 2
+
+# Cambio 989
+# Cambio 9
+# Cambio 7
+# Cambio 8
+# Cambio 3
+# Cambio 4
+# Cambio 5
 # Cambio 3
 # Cambio 4
 # Cambio 5
