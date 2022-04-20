@@ -6,6 +6,11 @@ phi_spacing = 0.02
 illumination = np.fromiter("0.123456789-", dtype="<U1")
 
 A = 1
+
+K2 = 5
+K1 = screen_size * K2 * 3 / (8 * (R1 + R2))
+
+A = 1
 B = 1
 R1 = 1
 R2 = 2
